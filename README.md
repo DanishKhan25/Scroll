@@ -1,6 +1,8 @@
 # Scroll Animation
 The Scroll Animation project is a web application that implements a scrolling effect where images come into view from the left and right sides of the screen. This report provides an overview of the project, including its functionality, implementation details, and potential improvements.
-![image](https://github.com/DanishKhan25/Scroll/assets/115468271/80fd3e68-b7de-4eba-b4b3-cb27bfa10c0d)
+
+![image](https://github.com/DanishKhan25/Scroll/assets/115468271/e77cb121-9197-46fa-a59b-377911d1c9e9)
+
 
 ## Functionality:
 The Scroll Animation project achieves the following functionality:
